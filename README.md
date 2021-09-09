@@ -4,50 +4,46 @@
 </h1>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
-<p align="center">
  <img src="https://raw.githubusercontent.com/GianLAFerreira/Barbearia/main/img-git/Produtos.png" alt="PRs welcome!" />
  <img src="https://raw.githubusercontent.com/GianLAFerreira/Barbearia/main/img-git/sobre.png" alt="PRs welcome!" />
  <img src="https://raw.githubusercontent.com/GianLAFerreira/Barbearia/main/img-git/beneficios.png" alt="PRs welcome!" />
+ <img src="https://raw.githubusercontent.com/GianLAFerreira/Barbearia/main/img-git/contato.png" alt="PRs welcome!" />
 
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
 
-<p align="center">
-  <img alt="dev.finances" src=".github/jobscalc.png" width="100%">
-</p>
+## 🚀 O que foi aprendido
 
-## 🚀 Tecnologias
+Esse projeto foi aprendido os seguintes conceitos:
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML
-- CSS
-- JavaScript
-- NodeJS
-- EJS
-- Express
-- SQLite
+- O que é o HTML e o CSS.
+- Como funciona a estrutura básica de um arquivo HTML.
+- Utilizar o navegador para inspecionar elementos.
+- Aprendido a definir estilos para elementos usando o CSS.
+- Conheça reset.css e o posicionamento pelo CSS.
+- A diferença entre inline e block.
+- Criar formulários complexos.
+- Trabalhar com campos para celulares.
+- Apresente informações em tabelas.
+- Usar estilos para formulários, campos e tabelas.
+- Trabalhar com transformações e transições.
+- Importar conteúdo externo na página HTML, como fontes, vídeos e mapas.
+- Conheça pseudo-classes e pseudo-elementos.
+- Usar seletores de CSS avançados.
+- Saiber como lidar com opacidade e sombra.
+- Entendido sobre o Viewport e design responsivo.
 
 ## 💻 Projeto
 
-O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer, onde é possível cadastrar e excluir jobs (projetos), obtendo uma estimativa de custo de cada job. Além disso, é possível traçar o valor da hora da pessoa que estará usando o sistema 💰
+A barbearia é uma aplicação de um site simples de uma barbearia onde esse site contem a descrição, imagens, mapa, formulários de forma totalmente responsiva. Além disso é possivel preencher um formulário com as informações pessoais e enviar ao responsável do site, para assim marcar um horário.💰
 
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/s4fytPFbDiSkv4GPSfKaLE/Jobs-Planning). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/GianLAFerreira/Barbearia/blob/main/LICENSE) para mais detalhes.
 
 ---
 
-Feito com ♥ by Gian com auxilio da [rocketseat](https://app.rocketseat.com.br/)  :wave: [Participe da comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com ♥ by Gian com auxilio da [alura](https://cursos.alura.com.br/)  :wave:
