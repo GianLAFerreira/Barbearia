@@ -1,6 +1,6 @@
 
 <h1 align="center">
-   <img alt="JobsCalc" title="JobsCalc" src="https://i.imgur.com/Veqm7Gh.png" width="220px" /> 
+   <img alt="JobsCalc" title="JobsCalc" src="https://raw.githubusercontent.com/GianLAFerreira/Barbearia/main/img-git/logo.png" width="220px" /> 
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
+ <img src="https://raw.githubusercontent.com/GianLAFerreira/Barbearia/main/img-git/Produtos.png" alt="PRs welcome!" />
 
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
