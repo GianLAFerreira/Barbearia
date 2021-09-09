@@ -255,3 +255,8 @@ td, td{
         width: 100%;
     }
 }
+
+.formulario{
+    margin: auto;
+    width: 50%;
+}
