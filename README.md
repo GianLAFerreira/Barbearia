@@ -12,6 +12,8 @@
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/GianLAFerreira/Barbearia/main/img-git/Produtos.png" alt="PRs welcome!" />
+ <img src="https://raw.githubusercontent.com/GianLAFerreira/Barbearia/main/img-git/sobre.png" alt="PRs welcome!" />
+ <img src="https://raw.githubusercontent.com/GianLAFerreira/Barbearia/main/img-git/beneficios.png" alt="PRs welcome!" />
 
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
